@@ -7,7 +7,7 @@ logo_url: svg/min/logo.svg
 
 # Hero
 hero: 
-    hero_img: hero.jpg
+    hero_img: https://cloud.githubusercontent.com/assets/14966904/14152302/cdace9f6-f6b2-11e5-9cf5-dc85bbedef9b.jpg
     hero_title:
     hero_description: Professioneel en resultaatgericht.
 
